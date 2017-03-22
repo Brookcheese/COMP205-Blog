@@ -1,0 +1,26 @@
+/*********************************
+*     Style para Header y Nav    *        *                                *
+**********************************/
+
+header{
+    text-align: center;   background:url("/imagen/codewithus.png");
+    background-size: cover;
+    color:white;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    margin:-25px 0px 25px 0px;
+}
+
+li{
+    list-style: none; 
+    display: inline;
+    padding:0px 10px 0px 10px;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
